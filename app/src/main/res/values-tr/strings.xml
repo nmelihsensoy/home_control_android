@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ev Kontrol</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="dashboard">Ana Sayfa</string>
+    <string name="door_lock">KAPIYI KİLİTLE</string>
+    <string name="door_open">KAPIYI AÇ</string>
+    <string name="no_data">VERİ YOK</string>
+    <string name="out_lock">DIŞ KAPI</string>
+    <string name="room_lamp">ODA LAMBA</string>
+    <string name="settings">AYARLAR</string>
+    <string name="rgb">RGB</string>
+    <string name="tv_remote">Tv Kumanda</string>
+    <string name="door_open_warn">Kapı Açık!</string>
+    <string name="door_close_warn">Kapı Kapalı</string>
+    <string name="test">test</string>
+</resources>

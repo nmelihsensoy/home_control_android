@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Home Control</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="no_data">No Data</string>
+    <string name="room_lamp">LAMP</string>
+    <string name="door_open">OPEN DOOR</string>
+    <string name="door_lock">LOCK DOOR</string>
+    <string name="out_lock">OUT LOCK</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="tv_remote">Tv Remote</string>
+    <string name="settings">Settings</string>
+    <string name="rgb">RGB</string>
+    <string name="door_open_warn">Door Open!</string>
+    <string name="door_close_warn">"Door Close</string>
+    <string name="test">test</string>
+</resources>

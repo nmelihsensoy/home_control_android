@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="61dp">
+
+        <ImageButton
+            android:id="@+id/lamp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:background="@drawable/button_status"
+            android:padding="12dp"
+            android:src="@drawable/ic_lightbulb_outline" />
+
+        <ImageButton
+            android:id="@+id/unlock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_toEndOf="@+id/lamp"
+            android:layout_toRightOf="@+id/lamp"
+            android:background="@drawable/button_status"
+            android:padding="12dp"
+            android:src="@drawable/ic_lock_open" />
+
+        <ImageButton
+            android:id="@+id/lock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/unlock"
+            android:layout_marginLeft="15dp"
+            android:layout_toEndOf="@+id/unlock"
+            android:layout_toRightOf="@+id/unlock"
+            android:background="@drawable/button_status"
+            android:padding="12dp"
+            android:src="@drawable/ic_lock_outline" />
+
+        <ImageButton
+            android:id="@+id/lockApt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/lock"
+            android:layout_marginLeft="15dp"
+            android:layout_toEndOf="@+id/lock"
+            android:layout_toRightOf="@+id/lock"
+            android:background="@drawable/button_status"
+            android:padding="12dp"
+            android:src="@drawable/ic_open_in_browser" />
+
+        <ImageButton
+            android:id="@+id/stop"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="?android:selectableItemBackground"
+            android:src="@drawable/ic_clear" />
+    </RelativeLayout>
+
+
+</LinearLayout>

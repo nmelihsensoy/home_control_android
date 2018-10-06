@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="teledunya">
+        <item>0x80BF3BC4</item>//Power
+        <item>0x80BF39C6</item>//Mute
+        <item>0x80BFA15E</item>//CH+
+        <item>0x80BF619E</item>//CH-
+        <item>0x80BF01FE</item>//VOL+
+        <item>0x80BF817E</item>//VOL-
+        <item>0x80BFE11E</item>//0
+        <item>0x80BF49B6</item>//1
+        <item>0x80BFC936</item>//2
+        <item>0x80BF33CC</item>//3
+        <item>0x80BF718E</item>//4
+        <item>0x80BFF10E</item>//5
+        <item>0x80BF13EC</item>//6
+        <item>0x80BF51AE</item>//7
+        <item>0x80BFD12E</item>//8
+        <item>0x80BF23DC</item>//9
+        <item>0x80BF738C</item>//OK
+        <item>0x80BFA35C</item>//EXIT
+        <item>0x80BFA956</item>//MENU
+        <item></item>//INPUT
+        <item>0x80BF53AC</item>//UP
+        <item>0x80BF4BB4</item>//DOWN
+        <item>0x80BF9966</item>//LEFT
+        <item>0x80BF837C</item>//RIGHT
+    </string-array>
+
+    <string-array name="vestel">
+        <item>0x84C</item>//Power
+        <item>0x84D</item>//Mute
+        <item>0x60</item>//CH+
+        <item>0x861</item>//CH-
+        <item>0x50</item>//VOL+
+        <item>0x851</item>//VOL-
+        <item>0x840</item>//0
+        <item>0x41</item>//1
+        <item>0x842</item>//2
+        <item>0x43</item>//3
+        <item>0x844</item>//4
+        <item>0x45</item>//5
+        <item>0x846</item>//6
+        <item>0x47</item>//7
+        <item>0x848</item>//8
+        <item>0x49</item>//9
+        <item>0x75</item>//OK
+        <item>0x65</item>//EXIT
+        <item>0x870</item>//MENU
+        <item>0x78</item>//INPUT
+        <item>0x54</item>//UP
+        <item>0x853</item>//DOWN
+        <item>0x855</item>//LEFT
+        <item>0x56</item>//RIGHT
+    </string-array>
+</resources>
